@@ -9,7 +9,7 @@
 
 <h2>🌐 Live Demo</h2>
 <p>
-  👉 <a href="https://simon-says-game-6s1k.onrender.com" target="_blank">Play Simon Says Game</a>
+  👉 <a href="https://simon-says-game-3oan.onrender.com" target="_blank">Play Simon Says Game</a>
 </p>
 
 ---
